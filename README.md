@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/muskan-0108/Leethub/tree/master/0152-maximum-product-subarray) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/muskan-0108/Leethub/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/muskan-0108/Leethub/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
