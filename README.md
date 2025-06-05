@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/muskan-0108/Leethub/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/muskan-0108/Leethub/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/muskan-0108/Leethub/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/muskan-0108/Leethub/tree/master/0013-roman-to-integer) |
 ## Stack
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muskan-0108/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/muskan-0108/Leethub/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
