@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muskan-0108/Leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/muskan-0108/Leethub/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/muskan-0108/Leethub/tree/master/0067-add-binary) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muskan-0108/Leethub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Trie
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/muskan-0108/Leethub/tree/master/0013-roman-to-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muskan-0108/Leethub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/muskan-0108/Leethub/tree/master/0067-add-binary) |
+## Counting
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muskan-0108/Leethub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
