@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/muskan-0108/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/muskan-0108/Leethub/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/muskan-0108/Leethub/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/muskan-0108/Leethub/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/muskan-0108/Leethub/tree/master/0152-maximum-product-subarray) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/muskan-0108/Leethub/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/muskan-0108/Leethub/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/muskan-0108/Leethub/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/muskan-0108/Leethub/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/muskan-0108/Leethub/tree/master/0242-valid-anagram) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/muskan-0108/Leethub/tree/master/2210-find-target-indices-after-sorting-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/muskan-0108/Leethub/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
