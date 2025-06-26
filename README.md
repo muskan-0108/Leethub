@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/muskan-0108/Leethub/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/muskan-0108/Leethub/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/muskan-0108/Leethub/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/muskan-0108/Leethub/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/muskan-0108/Leethub/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/muskan-0108/Leethub/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/muskan-0108/Leethub/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/muskan-0108/Leethub/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/muskan-0108/Leethub/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Stack
@@ -123,10 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/muskan-0108/Leethub/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/muskan-0108/Leethub/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/muskan-0108/Leethub/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/muskan-0108/Leethub/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
