@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/muskan-0108/Leethub/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/muskan-0108/Leethub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muskan-0108/Leethub/tree/master/0344-reverse-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/muskan-0108/Leethub/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muskan-0108/Leethub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/muskan-0108/Leethub/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/muskan-0108/Leethub/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muskan-0108/Leethub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/muskan-0108/Leethub/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/muskan-0108/Leethub/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/muskan-0108/Leethub/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/muskan-0108/Leethub/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/muskan-0108/Leethub/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/muskan-0108/Leethub/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Recursion
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/muskan-0108/Leethub/tree/master/0078-subsets) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/muskan-0108/Leethub/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Linked List
 |  |
 | ------- |
