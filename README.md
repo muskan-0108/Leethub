@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/muskan-0108/Leethub/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/muskan-0108/Leethub/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/muskan-0108/Leethub/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/muskan-0108/Leethub/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/muskan-0108/Leethub/tree/master/0152-maximum-product-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/muskan-0108/Leethub/tree/master/0560-subarray-sum-equals-k) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/muskan-0108/Leethub/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muskan-0108/Leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/muskan-0108/Leethub/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/muskan-0108/Leethub/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/muskan-0108/Leethub/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/muskan-0108/Leethub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muskan-0108/Leethub/tree/master/0344-reverse-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/muskan-0108/Leethub/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -157,9 +159,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/muskan-0108/Leethub/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/muskan-0108/Leethub/tree/master/0079-word-search) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/muskan-0108/Leethub/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Linked List
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/muskan-0108/Leethub/tree/master/0203-remove-linked-list-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/muskan-0108/Leethub/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/muskan-0108/Leethub/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
