@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/muskan-0108/Leethub/tree/master/0152-maximum-product-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/muskan-0108/Leethub/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/muskan-0108/Leethub/tree/master/0594-longest-harmonious-subsequence) |
+| [0724-find-pivot-index](https://github.com/muskan-0108/Leethub/tree/master/0724-find-pivot-index) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/muskan-0108/Leethub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/muskan-0108/Leethub/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/muskan-0108/Leethub/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/muskan-0108/Leethub/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/muskan-0108/Leethub/tree/master/0724-find-pivot-index) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/muskan-0108/Leethub/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
 |  |
