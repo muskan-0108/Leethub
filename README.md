@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/muskan-0108/Leethub/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/muskan-0108/Leethub/tree/master/0724-find-pivot-index) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/muskan-0108/Leethub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1677-matrix-diagonal-sum](https://github.com/muskan-0108/Leethub/tree/master/1677-matrix-diagonal-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/muskan-0108/Leethub/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/muskan-0108/Leethub/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/muskan-0108/Leethub/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -185,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/muskan-0108/Leethub/tree/master/0079-word-search) |
+| [1677-matrix-diagonal-sum](https://github.com/muskan-0108/Leethub/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
