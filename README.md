@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/muskan-0108/Leethub/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/muskan-0108/Leethub/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/muskan-0108/Leethub/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/muskan-0108/Leethub/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/muskan-0108/Leethub/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/muskan-0108/Leethub/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/muskan-0108/Leethub/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/muskan-0108/Leethub/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
