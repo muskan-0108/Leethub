@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/muskan-0108/Leethub/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/muskan-0108/Leethub/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/muskan-0108/Leethub/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/muskan-0108/Leethub/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/muskan-0108/Leethub/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/muskan-0108/Leethub/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/muskan-0108/Leethub/tree/master/0724-find-pivot-index) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/muskan-0108/Leethub/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/muskan-0108/Leethub/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/muskan-0108/Leethub/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/muskan-0108/Leethub/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/muskan-0108/Leethub/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/muskan-0108/Leethub/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/muskan-0108/Leethub/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/muskan-0108/Leethub/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/muskan-0108/Leethub/tree/master/0594-longest-harmonious-subsequence) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muskan-0108/Leethub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -208,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/muskan-0108/Leethub/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/muskan-0108/Leethub/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
