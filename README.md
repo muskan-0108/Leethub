@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/muskan-0108/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/muskan-0108/Leethub/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/muskan-0108/Leethub/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/muskan-0108/Leethub/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/muskan-0108/Leethub/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/muskan-0108/Leethub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/muskan-0108/Leethub/tree/master/0079-word-search) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/muskan-0108/Leethub/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/muskan-0108/Leethub/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/muskan-0108/Leethub/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/muskan-0108/Leethub/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/muskan-0108/Leethub/tree/master/0338-counting-bits) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/muskan-0108/Leethub/tree/master/0045-jump-game-ii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/muskan-0108/Leethub/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/muskan-0108/Leethub/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/muskan-0108/Leethub/tree/master/2704-maximum-difference-by-remapping-a-digit) |
