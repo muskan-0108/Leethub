@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/muskan-0108/Leethub/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/muskan-0108/Leethub/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/muskan-0108/Leethub/tree/master/0724-find-pivot-index) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskan-0108/Leethub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/muskan-0108/Leethub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1677-matrix-diagonal-sum](https://github.com/muskan-0108/Leethub/tree/master/1677-matrix-diagonal-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/muskan-0108/Leethub/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/muskan-0108/Leethub/tree/master/0045-jump-game-ii) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskan-0108/Leethub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/muskan-0108/Leethub/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/muskan-0108/Leethub/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/muskan-0108/Leethub/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/muskan-0108/Leethub/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/muskan-0108/Leethub/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/muskan-0108/Leethub/tree/master/0594-longest-harmonious-subsequence) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskan-0108/Leethub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/muskan-0108/Leethub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/muskan-0108/Leethub/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Backtracking
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/muskan-0108/Leethub/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/muskan-0108/Leethub/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskan-0108/Leethub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
