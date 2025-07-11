@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/muskan-0108/Leethub/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/muskan-0108/Leethub/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/muskan-0108/Leethub/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/muskan-0108/Leethub/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/muskan-0108/Leethub/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/muskan-0108/Leethub/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/muskan-0108/Leethub/tree/master/0338-counting-bits) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muskan-0108/Leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/muskan-0108/Leethub/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/muskan-0108/Leethub/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/muskan-0108/Leethub/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/muskan-0108/Leethub/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/muskan-0108/Leethub/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/muskan-0108/Leethub/tree/master/0242-valid-anagram) |
