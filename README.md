@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/muskan-0108/Leethub/tree/master/2102-find-the-middle-index-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/muskan-0108/Leethub/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/muskan-0108/Leethub/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/muskan-0108/Leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/muskan-0108/Leethub/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/muskan-0108/Leethub/tree/master/0338-counting-bits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskan-0108/Leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/muskan-0108/Leethub/tree/master/1013-fibonacci-number) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/muskan-0108/Leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## String
 |  |
 | ------- |
