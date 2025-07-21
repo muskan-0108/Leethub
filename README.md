@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/muskan-0108/Leethub/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/muskan-0108/Leethub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muskan-0108/Leethub/tree/master/0344-reverse-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/muskan-0108/Leethub/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/muskan-0108/Leethub/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3617-find-the-original-typed-string-i](https://github.com/muskan-0108/Leethub/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muskan-0108/Leethub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
