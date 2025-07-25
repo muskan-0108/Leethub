@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muskan-0108/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/muskan-0108/Leethub/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/muskan-0108/Leethub/tree/master/0222-count-complete-tree-nodes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/muskan-0108/Leethub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/muskan-0108/Leethub/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/muskan-0108/Leethub/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/muskan-0108/Leethub/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/muskan-0108/Leethub/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/muskan-0108/Leethub/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/muskan-0108/Leethub/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/muskan-0108/Leethub/tree/master/0338-counting-bits) |
 ## Simulation
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/muskan-0108/Leethub/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/muskan-0108/Leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/muskan-0108/Leethub/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/muskan-0108/Leethub/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/muskan-0108/Leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/muskan-0108/Leethub/tree/master/0222-count-complete-tree-nodes) |
 ## Sorting
 |  |
 | ------- |
