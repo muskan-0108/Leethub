@@ -17,9 +17,32 @@ class Solution {
     public int countNodes(TreeNode root) {
         if(root==null) return 0;
 
-        int leftCount = countNodes(root.left);
-        int rightCount = countNodes(root.right);
+        int left = getleftDepth(root);
+        int right = getrightDepth(root);
 
-        return leftCount+rightCount+1;  
+        if(left==right){//perfect binary tree
+            return (1<<left)-1;
+        }else{
+            int leftCount = countNodes(root.left);
+            int rightCount = countNodes(root.right);
+
+            return leftCount+rightCount+1;
+        }  
+    }
+    private int getleftDepth(TreeNode root){
+        int depth=0;
+        while(root!=null){
+            root=root.left;
+            depth++;
+        }
+        return depth;
+    }
+    private int getrightDepth(TreeNode root){
+        int depth=0;
+        while(root!=null){
+            root=root.right;
+            depth++;
+        }
+        return depth;
     }
 }
