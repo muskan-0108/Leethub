@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muskan-0108/Leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/muskan-0108/Leethub/tree/master/0572-subtree-of-another-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/muskan-0108/Leethub/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/muskan-0108/Leethub/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/muskan-0108/Leethub/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/muskan-0108/Leethub/tree/master/0572-subtree-of-another-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/muskan-0108/Leethub/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/muskan-0108/Leethub/tree/master/0572-subtree-of-another-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskan-0108/Leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Matrix
 |  |
@@ -265,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskan-0108/Leethub/tree/master/0803-cheapest-flights-within-k-stops) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/muskan-0108/Leethub/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
