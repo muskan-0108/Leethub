@@ -1,27 +1,55 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-    public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        //Breadth-First-Search -> Simple tweek
-        List<List<Integer>> ans = new ArrayList<>();
-        if (root == null) return ans;
-        Queue<TreeNode> queue = new LinkedList<>();
-
-        queue.add(root);
-        boolean isForward = true;
-        while (!queue.isEmpty()) {
-            int levelSize = queue.size();
-            List<Integer> levelArr = new LinkedList<>();
-
-            while (levelSize-- > 0) {
-                TreeNode node = queue.poll();
-                if (isForward) levelArr.addLast(node.val);
-                else levelArr.addFirst(node.val);
-                
-                if (node.left != null) queue.add(node.left);
-                if (node.right != null) queue.add(node.right);
-            }
-            ans.add(levelArr);
-            isForward = !isForward;
+    public int ht(TreeNode root){
+        if(root==null || root.left==null && root.right==null) return 0;
+        return 1+Math.max(ht(root.left),ht(root.right));
+    }
+    public void nthnode1(TreeNode root,int n,List<Integer> ans){//left to right
+        if(root==null) return;
+        if(n==1){
+            ans.add(root.val);
+            return;
         }
-        return ans;
+        nthnode1(root.left,n-1,ans);
+        nthnode1(root.right,n-1,ans);
+    }
+    public void nthnode2(TreeNode root,int n,List<Integer> ans){//right to left
+        if(root==null) return;
+        if(n==1){
+            ans.add(root.val);
+            return;
+        }
+        nthnode2(root.right,n-1,ans);
+        nthnode2(root.left,n-1,ans);
+        
+    }
+    public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
+        List<List<Integer>> Fans = new ArrayList<>();
+        if(root==null) return Fans;
+        int level = ht(root)+1;//ht(root) is for edge
+        for(int i=1;i<=level;i++){
+            List<Integer> ans = new ArrayList<>();
+            if(i%2!=0){
+                nthnode1(root,i,ans);
+            }else{
+                nthnode2(root,i,ans);
+            }
+            Fans.add(ans);
+        }
+        return Fans;
     }
 }
