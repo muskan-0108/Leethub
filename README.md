@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/muskan-0108/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/muskan-0108/Leethub/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/muskan-0108/Leethub/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/muskan-0108/Leethub/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/muskan-0108/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/muskan-0108/Leethub/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/muskan-0108/Leethub/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/muskan-0108/Leethub/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/muskan-0108/Leethub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/muskan-0108/Leethub/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/muskan-0108/Leethub/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/muskan-0108/Leethub/tree/master/0257-binary-tree-paths) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/muskan-0108/Leethub/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Linked List
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/muskan-0108/Leethub/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/muskan-0108/Leethub/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/muskan-0108/Leethub/tree/master/0257-binary-tree-paths) |
