@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/muskan-0108/Leethub/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/muskan-0108/Leethub/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/muskan-0108/Leethub/tree/master/0594-longest-harmonious-subsequence) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/muskan-0108/Leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muskan-0108/Leethub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/muskan-0108/Leethub/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/muskan-0108/Leethub/tree/master/0572-subtree-of-another-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/muskan-0108/Leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/muskan-0108/Leethub/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0226-invert-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskan-0108/Leethub/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/muskan-0108/Leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/muskan-0108/Leethub/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/muskan-0108/Leethub/tree/master/0572-subtree-of-another-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/muskan-0108/Leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sorting
 |  |
 | ------- |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/muskan-0108/Leethub/tree/master/0572-subtree-of-another-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskan-0108/Leethub/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/muskan-0108/Leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
 |  |
 | ------- |
