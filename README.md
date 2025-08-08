@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/muskan-0108/Leethub/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/muskan-0108/Leethub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/muskan-0108/Leethub/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/muskan-0108/Leethub/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/muskan-0108/Leethub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/muskan-0108/Leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/muskan-0108/Leethub/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0226-invert-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/muskan-0108/Leethub/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskan-0108/Leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/muskan-0108/Leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/muskan-0108/Leethub/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/muskan-0108/Leethub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/muskan-0108/Leethub/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/muskan-0108/Leethub/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/muskan-0108/Leethub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/muskan-0108/Leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sorting
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/muskan-0108/Leethub/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/muskan-0108/Leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/muskan-0108/Leethub/tree/master/0572-subtree-of-another-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/muskan-0108/Leethub/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskan-0108/Leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/muskan-0108/Leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
@@ -363,5 +367,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/muskan-0108/Leethub/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/muskan-0108/Leethub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/muskan-0108/Leethub/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/muskan-0108/Leethub/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/muskan-0108/Leethub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
