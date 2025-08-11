@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/muskan-0108/Leethub/tree/master/1677-matrix-diagonal-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/muskan-0108/Leethub/tree/master/2102-find-the-middle-index-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/muskan-0108/Leethub/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2529-range-product-queries-of-powers](https://github.com/muskan-0108/Leethub/tree/master/2529-range-product-queries-of-powers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/muskan-0108/Leethub/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/muskan-0108/Leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/muskan-0108/Leethub/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/muskan-0108/Leethub/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/muskan-0108/Leethub/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/muskan-0108/Leethub/tree/master/0338-counting-bits) |
+| [2529-range-product-queries-of-powers](https://github.com/muskan-0108/Leethub/tree/master/2529-range-product-queries-of-powers) |
 ## Simulation
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/muskan-0108/Leethub/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/muskan-0108/Leethub/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/muskan-0108/Leethub/tree/master/2102-find-the-middle-index-in-array) |
+| [2529-range-product-queries-of-powers](https://github.com/muskan-0108/Leethub/tree/master/2529-range-product-queries-of-powers) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/muskan-0108/Leethub/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
 |  |
