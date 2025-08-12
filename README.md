@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/muskan-0108/Leethub/tree/master/0338-counting-bits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskan-0108/Leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/muskan-0108/Leethub/tree/master/1013-fibonacci-number) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/muskan-0108/Leethub/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/muskan-0108/Leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## String
 |  |
