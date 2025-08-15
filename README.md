@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/muskan-0108/Leethub/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/muskan-0108/Leethub/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/muskan-0108/Leethub/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/muskan-0108/Leethub/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/muskan-0108/Leethub/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/muskan-0108/Leethub/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/muskan-0108/Leethub/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/muskan-0108/Leethub/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/muskan-0108/Leethub/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/muskan-0108/Leethub/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/muskan-0108/Leethub/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/muskan-0108/Leethub/tree/master/2529-range-product-queries-of-powers) |
 ## Simulation
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/muskan-0108/Leethub/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/muskan-0108/Leethub/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/muskan-0108/Leethub/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/muskan-0108/Leethub/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/muskan-0108/Leethub/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
