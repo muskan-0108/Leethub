@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muskan-0108/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/muskan-0108/Leethub/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/muskan-0108/Leethub/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/muskan-0108/Leethub/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/muskan-0108/Leethub/tree/master/0039-combination-sum) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/muskan-0108/Leethub/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/muskan-0108/Leethub/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/muskan-0108/Leethub/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muskan-0108/Leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/muskan-0108/Leethub/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/muskan-0108/Leethub/tree/master/0045-jump-game-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskan-0108/Leethub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/muskan-0108/Leethub/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
