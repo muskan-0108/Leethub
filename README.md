@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/muskan-0108/Leethub/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/muskan-0108/Leethub/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/muskan-0108/Leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3830-find-closest-person](https://github.com/muskan-0108/Leethub/tree/master/3830-find-closest-person) |
 ## Stack
 |  |
 | ------- |
