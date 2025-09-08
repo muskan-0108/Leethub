@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/muskan-0108/Leethub/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/muskan-0108/Leethub/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/muskan-0108/Leethub/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/muskan-0108/Leethub/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/muskan-0108/Leethub/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/muskan-0108/Leethub/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/muskan-0108/Leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
