@@ -1,38 +1,38 @@
 class MyStack {
-    Queue<Integer> q1=new LinkedList<>();
-    Queue<Integer> q2=new LinkedList<>();
+    Queue<Integer> q = new LinkedList<>();
+    //using i queue
+    //push efficient push O(1),pop,peek O(n)
 
     public MyStack() {
         
     }
     
     public void push(int x) {
-    while(!q1.isEmpty()){
-        q2.add(q1.remove());
-    }
-    q1.add(x);
-    while(!q2.isEmpty()){
-        q1.add(q2.remove());
-    }
-        
+        q.add(x);
     }
     
     public int pop() {
-        return q1.remove();
-        
+        for(int i=1;i<q.size();i++){
+            q.add(q.remove());
+        }
+        int val = q.remove();
+        return val;
     }
     
     public int top() {
-        return q1.peek();
-        
+        //peek 1 2 3 4-> 4
+        for(int i=1;i<q.size();i++){
+            q.add(q.remove());
+        }
+        // 4 1 2 3
+        int val = q.peek();//4
+        q.add(q.remove());
+        return val;
     }
     
     public boolean empty() {
-        if(q1.isEmpty()){
-            return true;
-        }else{
-            return false;
-        }
+        if(q.size()==0) return true;
+        else return false;
         
     }
 }
