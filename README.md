@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/muskan-0108/Leethub/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/muskan-0108/Leethub/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/muskan-0108/Leethub/tree/master/0342-power-of-four) |
+| [0897-prime-palindrome](https://github.com/muskan-0108/Leethub/tree/master/0897-prime-palindrome) |
 | [1013-fibonacci-number](https://github.com/muskan-0108/Leethub/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/muskan-0108/Leethub/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/muskan-0108/Leethub/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -466,4 +467,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/muskan-0108/Leethub/tree/master/0204-count-primes) |
+| [0897-prime-palindrome](https://github.com/muskan-0108/Leethub/tree/master/0897-prime-palindrome) |
 <!---LeetCode Topics End-->
