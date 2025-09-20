@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/muskan-0108/Leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/muskan-0108/Leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/muskan-0108/Leethub/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3827-implement-router](https://github.com/muskan-0108/Leethub/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,10 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/muskan-0108/Leethub/tree/master/0225-implement-stack-using-queues) |
 | [2429-design-a-food-rating-system](https://github.com/muskan-0108/Leethub/tree/master/2429-design-a-food-rating-system) |
+| [3827-implement-router](https://github.com/muskan-0108/Leethub/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/muskan-0108/Leethub/tree/master/0225-implement-stack-using-queues) |
+| [3827-implement-router](https://github.com/muskan-0108/Leethub/tree/master/3827-implement-router) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/muskan-0108/Leethub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/muskan-0108/Leethub/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/muskan-0108/Leethub/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3827-implement-router](https://github.com/muskan-0108/Leethub/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/muskan-0108/Leethub/tree/master/2429-design-a-food-rating-system) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/muskan-0108/Leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muskan-0108/Leethub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3827-implement-router](https://github.com/muskan-0108/Leethub/tree/master/3827-implement-router) |
 ## String Matching
 |  |
 | ------- |
@@ -479,4 +484,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/muskan-0108/Leethub/tree/master/2429-design-a-food-rating-system) |
+| [3827-implement-router](https://github.com/muskan-0108/Leethub/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
