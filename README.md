@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/muskan-0108/Leethub/tree/master/2429-design-a-food-rating-system) |
 | [2529-range-product-queries-of-powers](https://github.com/muskan-0108/Leethub/tree/master/2529-range-product-queries-of-powers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/muskan-0108/Leethub/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/muskan-0108/Leethub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/muskan-0108/Leethub/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/muskan-0108/Leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/muskan-0108/Leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/muskan-0108/Leethub/tree/master/0594-longest-harmonious-subsequence) |
 | [2429-design-a-food-rating-system](https://github.com/muskan-0108/Leethub/tree/master/2429-design-a-food-rating-system) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/muskan-0108/Leethub/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/muskan-0108/Leethub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muskan-0108/Leethub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3827-implement-router](https://github.com/muskan-0108/Leethub/tree/master/3827-implement-router) |
 ## String Matching
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/muskan-0108/Leethub/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/muskan-0108/Leethub/tree/master/0594-longest-harmonious-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/muskan-0108/Leethub/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/muskan-0108/Leethub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muskan-0108/Leethub/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
