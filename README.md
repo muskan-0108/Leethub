@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/muskan-0108/Leethub/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/muskan-0108/Leethub/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/muskan-0108/Leethub/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/muskan-0108/Leethub/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/muskan-0108/Leethub/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/muskan-0108/Leethub/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/muskan-0108/Leethub/tree/master/0290-word-pattern) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/muskan-0108/Leethub/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/muskan-0108/Leethub/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/muskan-0108/Leethub/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/muskan-0108/Leethub/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/muskan-0108/Leethub/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/muskan-0108/Leethub/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/muskan-0108/Leethub/tree/master/0326-power-of-three) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/muskan-0108/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/muskan-0108/Leethub/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/muskan-0108/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0166-fraction-to-recurring-decimal](https://github.com/muskan-0108/Leethub/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/muskan-0108/Leethub/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/muskan-0108/Leethub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/muskan-0108/Leethub/tree/master/0290-word-pattern) |
