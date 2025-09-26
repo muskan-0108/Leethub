@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/muskan-0108/Leethub/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/muskan-0108/Leethub/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/muskan-0108/Leethub/tree/master/0724-find-pivot-index) |
+| [0830-largest-triangle-area](https://github.com/muskan-0108/Leethub/tree/master/0830-largest-triangle-area) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/muskan-0108/Leethub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/muskan-0108/Leethub/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskan-0108/Leethub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/muskan-0108/Leethub/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/muskan-0108/Leethub/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/muskan-0108/Leethub/tree/master/0342-power-of-four) |
+| [0830-largest-triangle-area](https://github.com/muskan-0108/Leethub/tree/master/0830-largest-triangle-area) |
 | [0897-prime-palindrome](https://github.com/muskan-0108/Leethub/tree/master/0897-prime-palindrome) |
 | [1013-fibonacci-number](https://github.com/muskan-0108/Leethub/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/muskan-0108/Leethub/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/muskan-0108/Leethub/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/muskan-0108/Leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Number Theory
 |  |
