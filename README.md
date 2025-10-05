@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/muskan-0108/Leethub/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/muskan-0108/Leethub/tree/master/0724-find-pivot-index) |
 | [0830-largest-triangle-area](https://github.com/muskan-0108/Leethub/tree/master/0830-largest-triangle-area) |
+| [0898-transpose-matrix](https://github.com/muskan-0108/Leethub/tree/master/0898-transpose-matrix) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/muskan-0108/Leethub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/muskan-0108/Leethub/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskan-0108/Leethub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/muskan-0108/Leethub/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/muskan-0108/Leethub/tree/master/0067-add-binary) |
+| [0898-transpose-matrix](https://github.com/muskan-0108/Leethub/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/muskan-0108/Leethub/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/muskan-0108/Leethub/tree/master/3336-water-bottles-ii) |
 ## Counting
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/muskan-0108/Leethub/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/muskan-0108/Leethub/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/muskan-0108/Leethub/tree/master/0085-maximal-rectangle) |
+| [0898-transpose-matrix](https://github.com/muskan-0108/Leethub/tree/master/0898-transpose-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/muskan-0108/Leethub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/muskan-0108/Leethub/tree/master/1677-matrix-diagonal-sum) |
 ## Monotonic Stack
