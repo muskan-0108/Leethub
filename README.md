@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/muskan-0108/Leethub/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muskan-0108/Leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/muskan-0108/Leethub/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/muskan-0108/Leethub/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/muskan-0108/Leethub/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/muskan-0108/Leethub/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/muskan-0108/Leethub/tree/master/0344-reverse-string) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/muskan-0108/Leethub/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/muskan-0108/Leethub/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/muskan-0108/Leethub/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/muskan-0108/Leethub/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/muskan-0108/Leethub/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/muskan-0108/Leethub/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/muskan-0108/Leethub/tree/master/0166-fraction-to-recurring-decimal) |
