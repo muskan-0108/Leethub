@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/muskan-0108/Leethub/tree/master/1677-matrix-diagonal-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/muskan-0108/Leethub/tree/master/2102-find-the-middle-index-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/muskan-0108/Leethub/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/muskan-0108/Leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/muskan-0108/Leethub/tree/master/2429-design-a-food-rating-system) |
 | [2529-range-product-queries-of-powers](https://github.com/muskan-0108/Leethub/tree/master/2529-range-product-queries-of-powers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/muskan-0108/Leethub/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/muskan-0108/Leethub/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/muskan-0108/Leethub/tree/master/0344-reverse-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/muskan-0108/Leethub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/muskan-0108/Leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/muskan-0108/Leethub/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/muskan-0108/Leethub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/muskan-0108/Leethub/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/muskan-0108/Leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/muskan-0108/Leethub/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3827-implement-router](https://github.com/muskan-0108/Leethub/tree/master/3827-implement-router) |
 ## Divide and Conquer
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskan-0108/Leethub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/muskan-0108/Leethub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/muskan-0108/Leethub/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/muskan-0108/Leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/muskan-0108/Leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Backtracking
 |  |
