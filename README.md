@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/muskan-0108/Leethub/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/muskan-0108/Leethub/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/muskan-0108/Leethub/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/muskan-0108/Leethub/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/muskan-0108/Leethub/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/muskan-0108/Leethub/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/muskan-0108/Leethub/tree/master/0342-power-of-four) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/muskan-0108/Leethub/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/muskan-0108/Leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/muskan-0108/Leethub/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/muskan-0108/Leethub/tree/master/0206-reverse-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
