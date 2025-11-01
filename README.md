@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/muskan-0108/Leethub/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/muskan-0108/Leethub/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/muskan-0108/Leethub/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/muskan-0108/Leethub/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/muskan-0108/Leethub/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/muskan-0108/Leethub/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/muskan-0108/Leethub/tree/master/0078-subsets) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muskan-0108/Leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/muskan-0108/Leethub/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/muskan-0108/Leethub/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/muskan-0108/Leethub/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/muskan-0108/Leethub/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/muskan-0108/Leethub/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/muskan-0108/Leethub/tree/master/0072-edit-distance) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/muskan-0108/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/muskan-0108/Leethub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/muskan-0108/Leethub/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/muskan-0108/Leethub/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/muskan-0108/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0166-fraction-to-recurring-decimal](https://github.com/muskan-0108/Leethub/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/muskan-0108/Leethub/tree/master/0169-majority-element) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/muskan-0108/Leethub/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/muskan-0108/Leethub/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/muskan-0108/Leethub/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/muskan-0108/Leethub/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/muskan-0108/Leethub/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/muskan-0108/Leethub/tree/master/0594-longest-harmonious-subsequence) |
